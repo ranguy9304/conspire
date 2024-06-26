@@ -2,7 +2,7 @@
 
 Conspire is an open-source social networking platform where users can start, contribute to, and browse conspiracies about topics they are passionate about, whether they love or hate them. This platform is built using SvelteKit, providing a fast, modern, and interactive experience.
 
-![Conspire Logo](path_to_logo)
+![Conspire Logo](./static/logo.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Svelte Kit Version](https://img.shields.io/badge/svelte--kit-1.0-blue.svg)](https://kit.svelte.dev/)
@@ -13,13 +13,17 @@ Conspire is an open-source social networking platform where users can start, con
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Conspire](#conspire)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Features](#features)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contact](#contact)
+  - [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
